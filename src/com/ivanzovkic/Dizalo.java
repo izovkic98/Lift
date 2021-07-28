@@ -8,9 +8,7 @@ public class Dizalo {
     DrugiKat drugiKat;
     TrećiKat treciKat;
     StanjaDizala dizalo;
-    StanjaDizala stanjeDizala;
-    StanjaDizala promjena;
-    StanjaDizala twaji;
+
 
 
     public Dizalo(){
