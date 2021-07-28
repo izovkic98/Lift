@@ -10,6 +10,7 @@ public class Dizalo {
     StanjaDizala dizalo;
     StanjaDizala stanjeDizala;
     StanjaDizala promjena;
+    StanjaDizala twaji;
 
 
     public Dizalo(){
