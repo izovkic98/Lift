@@ -8,6 +8,7 @@ public class Dizalo {
     DrugiKat drugiKat;
     TrećiKat treciKat;
     StanjaDizala dizalo;
+    StanjaDizala stanjeDizala;
 
 
     public Dizalo(){
